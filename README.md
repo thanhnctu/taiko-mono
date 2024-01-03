@@ -73,3 +73,4 @@ Thanks goes to these wonderful people!
     <img width="720" src="https://contrib.rocks/image?repo=taikoxyz/taiko-mono" />
   </p>
 </a>
+# to study Taiko
